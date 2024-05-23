@@ -1,0 +1,15 @@
+C:\PROJETOS DEV\C#\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.exe
+C:\PROJETOS DEV\C#\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.deps.json
+C:\PROJETOS DEV\C#\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.runtimeconfig.json
+C:\PROJETOS DEV\C#\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.dll
+C:\PROJETOS DEV\C#\DesafioExplorando\bin\Debug\net8.0\DesafioExplorando.pdb
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.GeneratedMSBuildEditorConfig.editorconfig
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.AssemblyInfoInputs.cache
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.AssemblyInfo.cs
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.csproj.CoreCompileInputs.cache
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.sourcelink.json
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.dll
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\refint\DesafioExplorando.dll
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.pdb
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\DesafioExplorando.genruntimeconfig.cache
+C:\PROJETOS DEV\C#\DesafioExplorando\obj\Debug\net8.0\ref\DesafioExplorando.dll
